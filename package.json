@@ -1,0 +1,15 @@
+{
+  "name": "udacity_javascript_project_2",
+  "version": "1.0.0",
+  "description": "Udacity_Javascript_Project_II_NASA_Dashboard by Oluwaseyi Awoga",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Oluwaseyi Awoga",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
