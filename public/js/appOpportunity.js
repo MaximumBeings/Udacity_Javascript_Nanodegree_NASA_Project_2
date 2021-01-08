@@ -4,7 +4,7 @@ let mainDivOpp = document.querySelector("#opp");
 console.log("Hello");
 // NASA API
 const sol = 1000;
-const apiKey = 'IxIBOwaTmmj18dCu2RLvBHM6H3AgOSfsuQ1YYor0';
+const apiKey = 'DEMO_KEY';
 const apiUrl = `https://api.nasa.gov/mars-photos/api/v1/rovers/opportunity/photos?sol=${sol}&api_key=${apiKey}`;
 console.log(apiUrl);
 
