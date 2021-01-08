@@ -3,7 +3,7 @@ let mainDivApodModal = document.querySelector("#apodModal");
 
 // NASA API
 const count = 15;
-const apiKey = 'IxIBOwaTmmj18dCu2RLvBHM6H3AgOSfsuQ1YYor0';
+const apiKey = 'DEMO_KEY';
 const apiUrl = `https://api.nasa.gov/planetary/apod?api_key=${apiKey}&count=${count}`;
 
 
