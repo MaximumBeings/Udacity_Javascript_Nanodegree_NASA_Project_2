@@ -4,7 +4,7 @@ let mainDivOpp = document.querySelector("#spirit");
 console.log("Hello");
 // NASA API
 const sol = 1000;
-const apiKey = 'IxIBOwaTmmj18dCu2RLvBHM6H3AgOSfsuQ1YYor0';
+const apiKey = 'DEMO_KEY';
 const apiUrl = `https://api.nasa.gov/mars-photos/api/v1/rovers/spirit/photos?sol=${sol}&api_key=${apiKey}`;
 console.log(apiUrl);
 
