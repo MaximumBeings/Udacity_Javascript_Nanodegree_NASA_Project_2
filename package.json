@@ -10,6 +10,7 @@
   "author": "Oluwaseyi Awoga",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "http-status-codes": "^2.1.4"
   }
 }
